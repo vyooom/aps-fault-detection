@@ -123,3 +123,27 @@ git push origin main
 13. Creating conflict: This line is added in Github by Abhishek.
 
 
+18. initialize the git
+```
+git init
+```
+
+19. clone existing github repo with
+```
+git clone <github_url>
+```
+Note: clone/download github repo in your system
+
+20. Add your chnages in git staging area
+```
+git add file_name
+```
+Use . to add everything.
+
+21. Git commit create commit
+```
+git commit -m "message"
+git push origin main
+```
+Note: main is your branch name & origin has the github url
+
