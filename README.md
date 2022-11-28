@@ -107,6 +107,18 @@ git add README.md
 git commit - m "README.md file updated in VSCODE-neurolab"
 ```
 
+16. If we push the commin then error: rejected. Hence we have to pull first
+```
+git pull origin main
+```
+17. It will show conflicts: Accept the chnages or compare changes
+```
+git add.
+git commit -m "fixed the merged conflict"
+git log
+git push origin main
+```
+
 
 
 
