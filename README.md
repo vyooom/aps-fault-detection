@@ -98,6 +98,15 @@ git commit -m "This is my first version"
 ```
 git push origin main -f
 ```
+14. Creating Conflict: This line is added in VSCODE by Abhishek.
+
+15. Git add new changes
+```
+git status
+git add README.md
+git commit - m "README.md file updated in VSCODE-neurolab"
+```
+
 
 
 
